@@ -1,4 +1,6 @@
-# Edge-Detection
+### EX NO : 07
+### DATE  : 17.05.2022
+# <p align="center">Edge-Detection</p>
 ## Aim:
 
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
